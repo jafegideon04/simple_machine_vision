@@ -1,0 +1,2 @@
+# simple_machine_vision
+A SIMPLE MACHINE VISION CODE USING PYTHON 
